@@ -17,6 +17,8 @@
 * Sourcetrailに同梱されているTutorialプロジェクトを使用。  
   1. Sourcetrail.exeを実行。  
   2. Recent Projectに表示されているプロジェクトをクリック。
+     ![Sourcetail_StartPage](https://github.com/y-tom/how-to-use/blob/master/picture/Sourcetail_StartPage.jpg)
 
   上記実行後、グラフウィンドウとコードウィンドウに何らかが表示されればOK。
+  ![Sourcetail_Tutorial](https://github.com/y-tom/how-to-use/blob/master/picture/Sourcetail_Tutorial.jpg)
 ---
